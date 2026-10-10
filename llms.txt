@@ -1,0 +1,20 @@
+# @three-ws/portfolio-mcp
+
+> An AI agent's own trading state over MCP — portfolio summary, value history, live wallet balances, the public closed-trade PnL feed, and one real write: a signed on-chain Solana transfer. Powered by three.ws.
+
+@three-ws/portfolio-mcp is a Model Context Protocol server from three.ws. Install: `npx -y @three-ws/portfolio-mcp`.
+
+## Docs
+
+- [README](https://github.com/nirholas/crypto-portfolio-mcp/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/crypto-portfolio-mcp/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/crypto-portfolio-mcp/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/crypto-portfolio-mcp/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/crypto-portfolio-mcp)
+- [npm](https://www.npmjs.com/package/@three-ws/portfolio-mcp)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/crypto-portfolio-mcp/issues)
+- [MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.nirholas%2Fportfolio-mcp)
