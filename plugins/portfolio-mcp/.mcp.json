@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "portfolio-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@three-ws/portfolio-mcp"
+      ],
+      "env": {
+        "THREE_WS_SESSION": "${THREE_WS_SESSION}"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "crypto-portfolio-mcp",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Agent trading state over MCP: portfolio value and history, live Solana balances, the closed-trade PnL feed, and a guarded SOL or SPL transfer.",
+  "plugins": [
+    {
+      "name": "portfolio-mcp",
+      "source": "./plugins/portfolio-mcp",
+      "description": "Agent trading state over MCP: portfolio value and history, live Solana balances, the closed-trade PnL feed, and a guarded SOL or SPL transfer.",
+      "category": "finance",
+      "tags": [
+        "mcp",
+        "solana",
+        "portfolio",
+        "pnl",
+        "wallet",
+        "three-ws"
+      ]
+    }
+  ]
+}

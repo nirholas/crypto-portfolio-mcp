@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-mcp",
+  "version": "0.1.2",
+  "description": "Agent trading state over MCP: portfolio value and history, live Solana balances, the closed-trade PnL feed, and a guarded SOL or SPL transfer.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/crypto-portfolio-mcp",
+  "homepage": "https://nirholas.github.io/crypto-portfolio-mcp/",
+  "license": "Apache-2.0",
+  "keywords": [
+    "mcp",
+    "solana",
+    "portfolio",
+    "pnl",
+    "wallet",
+    "three-ws"
+  ]
+}
