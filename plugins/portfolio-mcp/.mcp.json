@@ -7,7 +7,7 @@
         "@three-ws/portfolio-mcp"
       ],
       "env": {
-        "THREE_WS_SESSION": "${THREE_WS_SESSION}"
+        "THREE_WS_SESSION": "${THREE_WS_SESSION:-}"
       }
     }
   }
